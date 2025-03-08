@@ -5,7 +5,7 @@ Bu proje, Tapir Lab.'ın dil bağımsız lip-sync yönteminin (extended LPC taba
 ## Proje Amacı
 
 - **Benchmark:**  
-  - Cherry Lip-Sync ile Tapir Lab. Lip-Sync çıktılarının zamana göre fonemleri ifade eden ağız şekillerinin karşılaştırılması. Dudak senkronizasyonunun sağlanacağı ses kaydı için Lip Sync.'te öncelikle olarak A,E,İ,O,U fonemleri verilir sonrasında söz konusu ses kaydı verilir. Frame_shapes.txt bu şekilde oluşur.
+  - Cherry Lip-Sync ile Tapir Lab. Lip-Sync çıktılarının zamana göre fonemleri ifade eden ağız şekillerinin karşılaştırılması. Dudak senkronizasyonunun sağlanacağı ses kaydı için Lip Sync.'te öncelikle extended LPC yöntemi kullanılarak ses sinyalinden formant frekansları ve ilgili istatistiksel parametreler çıkarılır; bu veriler daha sonra, eğitim aşamasında elde edilen referans değerlerle karşılaştırılarak dudak hareketleri eşleştirilir. Frame_shapes.txt bu şekilde oluşur.
   - Cherry Lip Sync.'te ise bu fonemler (A,E,İ,O,U) tek tek verilir. Her fonem için oluşan pattern/patternler yakalanır ve bu patternler ilgili foneme karşılık gelir.
   - Çıkarılan bu örüntüler(patternler) asıl seste bulunur ve asıl seste bu patternler yerine ilgili fonemler yazılır.
   - Cherry Lip Sync'in çıktısı ve Tapir Lip Sync.'in çıktısı aynı çıktı formatına dönüştürülerek benchmark işlemi uygulanır.
