@@ -9,16 +9,3 @@ Bu proje, Tapir Lab.'ın dil bağımsız lip-sync yönteminin (extended LPC taba
 
 - **Gelecek Hedef – AI Destekli Optimizasyon:**  
   - Mevcut extended LPC tabanlı formant çıkarım yönteminin yerini, yapay zeka destekli formant tahmini ile değiştirmeyi hedefleyerek, gürültü ve koartikülasyon gibi durumlarda doğruluğu artırmak.
-
-## Kurulum
-
-1. **Gereksinimler:**  
-   - Python 3.x  
-   - NumPy, OpenCV, librosa  
-   - PyTorch (gelecekte AI modülü için kullanılacak)  
-   - ffmpeg
-
-2. **Bağımlılıkları Yükleyin:**
-
-   ```bash
-   pip install -r requirements.txt
