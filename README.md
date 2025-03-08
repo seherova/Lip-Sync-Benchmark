@@ -1,6 +1,6 @@
 # Lip-Sync Benchmark
 
-Bu proje, Tapir Lab.'ın dil bağımsız lip-sync yönteminin (extended LPC tabanlı) performansını, Cherry Lip-Sync yöntemiyle karşılaştırmak (benchmark yapmak) amacıyla geliştirilmiştir. Dev branch’te yer alan kodlar, hem mevcut yöntemin temel sinyal işleme ve istatistiksel adımlarını korur hem de bu çıktıları zaman uyumlu olarak karşılaştırmaya yönelik benchmark modüllerini içerir. Uzun vadede, elde edilen benchmark sonuçlarına dayanarak Tapir Lab.'ın Lip-Sync yönteminin yapay zeka destekli optimizasyonunu (örneğin, CNN/CRNN tabanlı formant çıkarımı) entegre etmek planlanmaktadır.
+Bu proje, Tapir Lab.'ın dil bağımsız lip-sync yönteminin (extended LPC tabanlı) performansını, Cherry Lip-Sync yöntemiyle karşılaştırmak (benchmark yapmak) amacıyla geliştirilmiştir. Dev branch’te yer alan kodlar, hem mevcut yöntemin temel sinyal işleme ve istatistiksel adımlarını korur hem de bu çıktıları zaman uyumlu olarak karşılaştırmaya yönelik benchmark modüllerini içerir. Uzun vadede, elde edilen benchmark sonuçlarına dayanarak Tapir Lab.'ın Lip-Sync yönteminin yapay zeka destekli optimizasyonunu entegre etmek planlanmaktadır.
 
 ## Proje Amacı
 
@@ -8,7 +8,7 @@ Bu proje, Tapir Lab.'ın dil bağımsız lip-sync yönteminin (extended LPC taba
   - Cherry Lip-Sync ile Tapir Lab.'ın Lip-Sync çıktılarının zamana göre fonem etiketlerinin karşılaştırılması.
 
 - **Gelecek Hedef – AI Destekli Optimizasyon:**  
-  - Mevcut extended LPC tabanlı formant çıkarım yönteminin yerini, yapay zeka (CNN/CRNN tabanlı) destekli formant tahmini ile değiştirmeyi hedefleyerek, gürültü ve koartikülasyon gibi durumlarda doğruluğu artırmak.
+  - Mevcut extended LPC tabanlı formant çıkarım yönteminin yerini, yapay zeka destekli formant tahmini ile değiştirmeyi hedefleyerek, gürültü ve koartikülasyon gibi durumlarda doğruluğu artırmak.
 
 ## Kurulum
 
