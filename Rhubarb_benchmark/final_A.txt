@@ -1,0 +1,16 @@
+
+A sesi Rhubarb'da C ve B seslerinin x sürede art arda gelmesiyle oluşur. x süreyi bulmak için art arda çıkan 7 a harfinin ortalaması alınabilir.
+
+C ve B
+
+1- 0.18
+2- 0.17
+3- 0.23
+4- 0.17
+5- 0.16
+6- 0.23
+7- 0.16
+
+
+ortalaması (0.18 + 0.17 + 0.23 + 0.17 + 0.16 + 0.23 + 0.16) / 7 = 0.18
+

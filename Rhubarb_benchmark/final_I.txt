@@ -1,0 +1,18 @@
+İ sesi için ağız şekilleri:
+
+
+C-B (4 tane C-B)
+
+C-B -> 0.23
+C-B -> 0.14
+C-B -> 0.23
+C-B -> 0.14
+
+B-C (1 tane)
+B-C -> 0.1 sn
+
+B (1 tane)
+
+D-B (1 tane)
+0.23
+

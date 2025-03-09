@@ -1,0 +1,14 @@
+
+Rhubarb'da E sesi x süre arayla art arda gelen C ve B seslerinden oluşur. Ortalama x süresi.
+
+C - B
+
+1- 0.11
+2- 0.16
+3- 0.21
+4- 0.18
+5- 0.22
+
+ortalama = 0,176
+
+C ağız şeklinden sonra ortalama **0,176** sn sonra gelen B ağız şekli 0,176'yı oluşturuyor.

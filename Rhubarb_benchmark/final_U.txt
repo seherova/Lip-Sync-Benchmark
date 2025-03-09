@@ -1,0 +1,15 @@
+
+Rhubarb'da U sesi oluşurken eşleşen ağız şekilleri:
+
+D-C
+1- 0.30
+
+D-B
+2- 0.20
+
+B
+1- 0.26
+2- O.38
+
+B-C
+1- 0.15
