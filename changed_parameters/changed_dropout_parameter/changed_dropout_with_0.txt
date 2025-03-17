@@ -1,0 +1,8 @@
+    
+
+changed dropout default "0.0"
+
+#[config(default = "0.0")]
+
+değişimden önceki benchmark değerimiz * % 77.54 *
+dropout parametresini sıfırladıktan sonraki benchmark değerimiz * % 72.89 *

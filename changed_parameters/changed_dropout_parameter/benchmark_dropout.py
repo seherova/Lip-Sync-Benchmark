@@ -43,8 +43,8 @@ def compute_adjusted_accuracy(base_labels, test_labels):
 
 def main():
     # Load lip sync results
-    cherry_data = load_lip_sync_data("/Users/seherova/Documents/projectss/speech-lip sync-sync/cherry-lip-sync/cherry-output/son_guncellemeler/benchmark_yapılmış_olanlar/v04_cherry_ve_LipSync/cherry_catched_pattern_V04.txt")  # AI-based model
-    tapir_data = load_lip_sync_data("/Users/seherova/Documents/projectss/speech-lip sync-sync/cherry-lip-sync/cherry-output/son_guncellemeler/benchmark_yapılmış_olanlar/v04_cherry_ve_LipSync/tapir_LipSync_V04.txt")    # Signal processing model
+    cherry_data = load_lip_sync_data("/Users/seherova/Documents/fonemlerveses/changed_dropout_parameter/V0_ch_dropout_catched_pattern_txt")  # AI-based model
+    tapir_data = load_lip_sync_data("/Users/seherova/Documents/projectss/speech-lip sync-sync/cherry-lip-sync/v04_cherry_ve_LipSync/tapir_LipSync_V04.txt")    # Signal processing model
     
     # Reference timestamps from Cherry (AI-based model)
     reference_timestamps = sorted(cherry_data.keys())
