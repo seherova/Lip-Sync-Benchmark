@@ -1,0 +1,1 @@
+{'changed_a': 'CC', 'changed_e': ['CDB', 'DB'], 'changed_i': ['B', 'BB'], 'changed_o': 'EC', 'changed_u': 'CA'}

@@ -1,0 +1,3 @@
+
+
+Tapir Lip Sync correctness compared to Cherry Lip Sync: 77.84%
